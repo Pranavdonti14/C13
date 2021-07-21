@@ -1,2 +1,2 @@
-# C13
-The new Trex game has a lifetime 
+# C12
+Trex game has clouds
